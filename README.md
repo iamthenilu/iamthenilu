@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Open Source Projects as long as it involves AI related scope.
 - 📫 You can reach me at me.niladri.sen@gmail.com. I will be more than happy to connect :)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=iamthenilu)
 <!---
 iamthenilu/iamthenilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
